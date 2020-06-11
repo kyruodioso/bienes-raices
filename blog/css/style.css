@@ -1,0 +1,47 @@
+header{
+    background-color: blue;
+}
+
+a{
+    text-decoration: none;
+}
+
+a h1{
+    color: black;
+font-family: 'Rubik Mono One', sans-serif;
+font-size: 100px;
+
+
+}
+
+main{
+    background-color: green;
+}
+
+img{
+    width: 45%;
+}
+
+footer{
+    background-color: brown;
+}
+
+
+@media (min-width: 480px){
+    body{
+        background-color: aquamarine;
+    }
+
+}
+
+@media (min-width: 800px){
+    body{
+        background-color: blueviolet;
+    }
+    
+}
+@media (min-width: 1024px){
+    body{
+        background-color: burlywood;
+    }
+}
